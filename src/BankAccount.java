@@ -52,7 +52,7 @@ public class BankAccount {
                 1000.00
         );
 
-        // Perform operations
+        // Perform transactions
         account.printAccountSummary();
         System.out.println("-----");
 
@@ -62,6 +62,7 @@ public class BankAccount {
 
         System.out.println("-----");
         account.printAccountSummary();
+        System.out.println("Completed");
     }
 }
 // Bank account status
