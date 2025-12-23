@@ -62,7 +62,7 @@ public class BankAccount {
 
         System.out.println("-----");
         account.printAccountSummary();
-        System.out.println("Completed");
+
     }
 }
 // Bank account status
